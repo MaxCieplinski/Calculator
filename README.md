@@ -36,4 +36,4 @@ If you have found any bug/s make sure to first check if they already hadn't been
 fell free to note them down in `issues`
 
 # Contribution
-If you have any new ideas for new features or improvements feel free to note them down in pull requests
+If you have any new ideas for new features or improvements feel free to note them down in pull requests 
