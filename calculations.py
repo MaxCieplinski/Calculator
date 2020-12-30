@@ -153,4 +153,4 @@ class Calculations:
                 if idx == len(equation) - 1:
                     new_equation.append(i)
 
-        return new_equation
+        return new_equation 
