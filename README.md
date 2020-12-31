@@ -10,7 +10,7 @@ Code should compile with python 3.x on these platforms :
 
 ## Getting or updating the code
 To get the code :
-- Clone the repository with `git clone --recursive https://github.com/MaxCieplinski/Calculator.git`
+- Clone the repository with `git clone https://github.com/MaxCieplinski/Calculator.git`
 - Download the latest release it with the green button `Download`
 
 In order to update existing code use :
@@ -37,3 +37,6 @@ fell free to note them down in `issues`
 
 # Contribution
 If you have any new ideas for new features or improvements feel free to note them down in pull requests 
+
+# Contact
+Feel free to contact me via email (`max.cieplinski@gmail.com`) or discord (`Maxi#2392`)
