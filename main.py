@@ -2,5 +2,9 @@ from calculations import Calculations
 
 while True:
     calculation = input("Calculator : ")
-    result = Calculations.calculate(calculation)
-    print(result) 
+    
+    try:
+        result = Calculations.calculate(calculation)
+        print(result)
+    except:
+        print('Error')
