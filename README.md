@@ -25,7 +25,7 @@ To get the code :
 - Clone the repository with `git clone https://github.com/MaxCieplinski/Calculator.git`
 - Download the latest release it with the green button `Download`
 
-In order to update existing code use :
+In order to update existing code open the terminal and write :
 ```
 cd Calculator
 git pull
@@ -49,7 +49,7 @@ while True:
 
 # Issues
 If you have found any bug/s make sure to first check if they already hadn't been reported in `issues` and if not, 
-fell free to note them down in `issues`
+feel free to note them down in `issues`
 
 # Contribution
 If you have any new ideas for new features or improvements feel free to note them down in pull requests 
